@@ -9,6 +9,7 @@ mkdir calculator
 go mod init github.com/<username>/calculator
 ```
 > You don't have to create the repo know we will do that later.
+
 **Step 3:- ** Now We will create a `main.go` file and paste this code or the code that you want to make a package.
 
 **Step 4:- **  Now is the time we will create the repo that we used at the time of creating the mod file so Go to your GitHub account and then create a new repo with the name `calculator`
