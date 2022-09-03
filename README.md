@@ -36,6 +36,9 @@ Now you Have your Go lang package that you can use in your every other Project w
 # How to Use this Go Lang Package
 **Step 1:- ** Open Terminal in your Project folder 
 ```
+go mod init <folder-name>
+```
+```
 go get -u github.com/souravsk/calculator
 ```
 **Step 2:- ** Now you can import this GitHub repo into you go lang file 
